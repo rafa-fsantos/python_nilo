@@ -64,7 +64,8 @@ Python_Nilo/
     └── scripts/                     # Janelas e eventos Tkinter (.py)
 ```
 
-### Convenções de Arquivos:
+### Convenções de Arquivos
+
 * `01_teoria_e_exemplos.ipynb`: Conceitos, fórmulas em LaTeX e reprodução comentada dos exemplos do livro.
 * `02_exercicios_propostos.ipynb`: Enunciados, funções de resolução, asserções (`assert`) e retrospectivas de aprendizagem.
 * `scripts/*.py`: Scripts puros recomendados onde o Jupyter apresenta limitações (Tkinter, criação modular de pacotes e manipuladores de banco de dados).
@@ -94,10 +95,12 @@ Python_Nilo/
 ## ⚙️ Ambiente de Desenvolvimento
 
 ### 1. Pré-requisitos
+
 * Python 3.14+ (ou ambiente Conda/Miniconda)
 * JupyterLab, Jupyter Notebook ou extensão do Jupyter para VS Code
 
 ### 2. Configurando o Ambiente Conda
+
 ```bash
 # Criação do ambiente com Python e Jupyter
 conda create -n python_nilo python=3.14 jupyterlab -y
@@ -109,9 +112,11 @@ conda activate python_nilo
 ### 3. Como Executar os Cadernos
 
 Pelo terminal, dentro da pasta raiz:
+
 ```bash
 jupyter lab
 ```
+
 Navegue pelo painel lateral até a pasta do capítulo desejado (`cap03-...`, `cap04-...`) e abra o notebook `01_teoria_e_exemplos.ipynb` ou `02_exercicios_propostos.ipynb`.
 
 ---
