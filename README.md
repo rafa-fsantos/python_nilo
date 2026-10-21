@@ -1,6 +1,6 @@
 # 🐍 Introdução à Programação com Python - Algoritmos e lógica de programação para iniciantes  
 
-Repositório estruturado para anotações, implementação de exemplos e resolução autônoma dos exercícios propostos do livro **"Introdução à Programação com Python: Algoritmos e Lógica de Programação para Iniciantes"**, de autoria de **Nilo Ney Coutinho Menezes** (Editora Novatec - 2024).
+Repositório estruturado para anotações, implementação de exemplos e resolução autônoma dos exercícios propostos do livro **Introdução à Programação com Python: Algoritmos e Lógica de Programação para Iniciantes (4ª Edição)**, de autoria de **Nilo Ney Coutinho Menezes** (Editora Novatec - 2024).
 
 ---
 
