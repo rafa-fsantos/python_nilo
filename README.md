@@ -128,4 +128,9 @@ Navegue pelo painel lateral até a pasta do capítulo desejado (`cap03-...`, `ca
 * [Documentação Oficial do Python 3](https://docs.python.org/pt-br/3/)
 
 ---
-*Repositório acadêmico voltado ao aprendizado individual e registro de evolução técnica.*
+
+## 📄 Licença
+
+Este projeto é desenvolvido para fins estritamente acadêmicos e de estudo pessoal. O código autoral deste repositório está sob licença [MIT](LICENSE).
+
+---
