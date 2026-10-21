@@ -1,0 +1,113 @@
+# =====================================================================
+# Gitignore - Projeto Python_Nilo (Estudos e Notebooks)
+# =====================================================================
+
+# --- Ambientes Conda e Mamba ---
+# Ambientes locais criados via terminal (ex: conda create -p ./env ou .conda/)
+.conda/
+conda-env/
+conda-envs/
+env/
+.condarc_local
+
+# Caches de download de pacotes conda
+pkgs/
+*.conda
+*.tar.bz2
+
+# --- Ambientes Virtuais Padrão (caso use venv/pipenv/poetry) ---
+.venv/
+venv/
+ENV/
+.pipenv/
+.poetry/
+
+# --- Jupyter Notebooks & JupyterLab ---
+# Checkpoints gerados automaticamente pelo Jupyter ao salvar
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+**/.ipynb_checkpoints/
+
+# Metadados de workspace do JupyterLab
+.jupyter/
+.local/share/jupyter/
+
+# --- Bytecode e Caches do Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# --- Exercícios do Cap. 9 (Leitura e Escrita de Arquivos) ---
+# Ignora arquivos temporários gerados pelas rotinas de teste
+*.log
+*.tmp
+*.temp
+saida.txt
+output.txt
+teste_*.txt
+
+# --- Exercícios do Cap. 11 (Bancos de Dados SQLite) ---
+# Ignora arquivos de base de dados gerados pelos exercícios para evitar commits pesados/conflitos
+*.sqlite3
+*.db
+*.sqlite
+*.db-journal
+
+# --- Configurações de Editores & IDEs ---
+# Visual Studio Code (preserva arquivos de configuração úteis da equipe se houver)
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# PyCharm / IntelliJ
+.idea/
+*.iws
+*.iml
+
+# Editores de texto de terminal / backups
+*.swp
+*.swo
+*~
+.directory
+
+# --- Arquivos de Sistema Operacional ---
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+
+# Linux
+.fuse_hidden*
+.Trash-*
+
+# --- Variáveis de Ambiente e Chaves ---
+.env
+.env.*
+!.env.example
