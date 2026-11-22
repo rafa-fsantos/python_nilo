@@ -1,3 +1,4 @@
+
 # 🐍 Introdução à Programação com Python - Algoritmos e lógica de programação para iniciantes  
 
 Repositório estruturado para anotações, implementação de exemplos e resolução autônoma dos exercícios propostos do livro **Introdução à Programação com Python: Algoritmos e Lógica de Programação para Iniciantes (4ª Edição)**, de autoria de **Nilo Ney Coutinho Menezes** (Editora Novatec - 2024).
@@ -76,9 +77,9 @@ Python_Nilo/
 
 | Capítulo | Título / Tema Principal | Formato Principal | Status | Exercícios Concluídos |
 | :---: | :--- | :---: | :---: | :---: |
-| **01** | Motivação e Primeiros Passos | Notebook | [x] Concluído | - |
-| **02** | Preparando o Ambiente e Primeiros Programas | Notebooks | [ ] Em andamento | 0 / 6 |
-| **03** | Variáveis e Entrada de Dados | Notebooks | [ ] Não iniciado | 0 / 15 |
+| **01** | Motivação e Primeiros Passos | Notebook | [X] Concluído | - |
+| **02** | Preparando o Ambiente e Primeiros Programas | Notebooks | [X] Concluído | 7 / 7 |
+| **03** | Variáveis e Entrada de Dados | Notebooks | [X] Em andamento | 0 / 15 |
 | **04** | Condições (`if`, `else`, `elif`) | Notebooks | [ ] Não iniciado | 0 / 10 |
 | **05** | Repetições (`while`, `for`) | Notebooks | [ ] Não iniciado | 0 / 27 |
 | **06** | Listas, Dicionários, Tuplas e Conjuntos | Notebooks | [ ] Não iniciado | 0 / 20 |
